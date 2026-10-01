@@ -1,0 +1,122 @@
+[
+  {
+    "question": "¿Qué saga tiene a Darth Vader?",
+    "options": [
+      "Star Wars",
+      "Harry Potter",
+      "Matrix",
+      "Rocky"
+    ],
+    "answer": "Star Wars"
+  },
+  {
+    "question": "¿En qué serie aparece Hawkins?",
+    "options": [
+      "Stranger Things",
+      "Friends",
+      "The Office",
+      "Lost"
+    ],
+    "answer": "Stranger Things"
+  },
+  {
+    "question": "¿Qué superhéroe usa un escudo?",
+    "options": [
+      "Capitán América",
+      "Batman",
+      "Hulk",
+      "Flash"
+    ],
+    "answer": "Capitán América"
+  },
+  {
+    "question": "¿Qué película de Pixar ocurre en parte dentro de la mente?",
+    "options": [
+      "Inside Out",
+      "Cars",
+      "Up",
+      "Coco"
+    ],
+    "answer": "Inside Out"
+  },
+  {
+    "question": "¿Qué escuela aparece en Harry Potter?",
+    "options": [
+      "Hogwarts",
+      "Xavier",
+      "Nevermore",
+      "Beauxbatons"
+    ],
+    "answer": "Hogwarts"
+  },
+  {
+    "question": "¿Qué personaje vive en una piña?",
+    "options": [
+      "Bob Esponja",
+      "Shrek",
+      "Simba",
+      "Pikachu"
+    ],
+    "answer": "Bob Esponja"
+  },
+  {
+    "question": "¿Qué saga incluye Jurassic Park?",
+    "options": [
+      "Jurassic Park",
+      "Dune",
+      "Rocky",
+      "Alien"
+    ],
+    "answer": "Jurassic Park"
+  },
+  {
+    "question": "¿Cuál es el apellido de Wednesday?",
+    "options": [
+      "Addams",
+      "Stark",
+      "Kent",
+      "Wayne"
+    ],
+    "answer": "Addams"
+  },
+  {
+    "question": "¿Quién lleva el anillo en El Señor de los Anillos?",
+    "options": [
+      "Frodo",
+      "Aragorn",
+      "Gandalf",
+      "Legolas"
+    ],
+    "answer": "Frodo"
+  },
+  {
+    "question": "¿Qué película presenta un barco llamado Titanic?",
+    "options": [
+      "Titanic",
+      "Avatar",
+      "Gladiator",
+      "Dune"
+    ],
+    "answer": "Titanic"
+  },
+  {
+    "question": "¿Qué personaje pertenece a Marvel?",
+    "options": [
+      "Iron Man",
+      "Batman",
+      "Superman",
+      "Shrek"
+    ],
+    "answer": "Iron Man"
+  },
+  {
+    "question": "¿Qué serie gira alrededor de Walter White?",
+    "options": [
+      "Breaking Bad",
+      "Dark",
+      "Lost",
+      "Wednesday"
+    ],
+    "answer": "Breaking Bad"
+  }
+]

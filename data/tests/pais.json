@@ -1,0 +1,90 @@
+{
+  "title": "Pais",
+  "questions": [
+    {
+      "question": "Tu clima ideal...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Opción A"
+        },
+        {
+          "key": "B",
+          "text": "Opción B"
+        },
+        {
+          "key": "C",
+          "text": "Opción C"
+        }
+      ]
+    },
+    {
+      "question": "Tu plan perfecto...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Opción A"
+        },
+        {
+          "key": "B",
+          "text": "Opción B"
+        },
+        {
+          "key": "C",
+          "text": "Opción C"
+        }
+      ]
+    },
+    {
+      "question": "Te atrae más...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Opción A"
+        },
+        {
+          "key": "B",
+          "text": "Opción B"
+        },
+        {
+          "key": "C",
+          "text": "Opción C"
+        }
+      ]
+    },
+    {
+      "question": "En un viaje buscas...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Opción A"
+        },
+        {
+          "key": "B",
+          "text": "Opción B"
+        },
+        {
+          "key": "C",
+          "text": "Opción C"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": {
+      "icon": "🔥",
+      "title": "Perfil A",
+      "description": "Tu resultado se acerca al perfil A."
+    },
+    "B": {
+      "icon": "🧠",
+      "title": "Perfil B",
+      "description": "Tu resultado se acerca al perfil B."
+    },
+    "C": {
+      "icon": "⚡",
+      "title": "Perfil C",
+      "description": "Tu resultado se acerca al perfil C."
+    }
+  }
+}

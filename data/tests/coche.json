@@ -1,0 +1,90 @@
+{
+  "title": "Coche",
+  "questions": [
+    {
+      "question": "Tu prioridad...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Opción A"
+        },
+        {
+          "key": "B",
+          "text": "Opción B"
+        },
+        {
+          "key": "C",
+          "text": "Opción C"
+        }
+      ]
+    },
+    {
+      "question": "Tu conducción ideal...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Opción A"
+        },
+        {
+          "key": "B",
+          "text": "Opción B"
+        },
+        {
+          "key": "C",
+          "text": "Opción C"
+        }
+      ]
+    },
+    {
+      "question": "Te gusta llamar la atención...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Opción A"
+        },
+        {
+          "key": "B",
+          "text": "Opción B"
+        },
+        {
+          "key": "C",
+          "text": "Opción C"
+        }
+      ]
+    },
+    {
+      "question": "Una mejora sería...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Opción A"
+        },
+        {
+          "key": "B",
+          "text": "Opción B"
+        },
+        {
+          "key": "C",
+          "text": "Opción C"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": {
+      "icon": "🔥",
+      "title": "Perfil A",
+      "description": "Tu resultado se acerca al perfil A."
+    },
+    "B": {
+      "icon": "🧠",
+      "title": "Perfil B",
+      "description": "Tu resultado se acerca al perfil B."
+    },
+    "C": {
+      "icon": "⚡",
+      "title": "Perfil C",
+      "description": "Tu resultado se acerca al perfil C."
+    }
+  }
+}

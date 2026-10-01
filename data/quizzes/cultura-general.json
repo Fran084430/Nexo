@@ -1,0 +1,122 @@
+[
+  {
+    "question": "¿Cuál es el planeta más grande del sistema solar?",
+    "options": [
+      "Tierra",
+      "Júpiter",
+      "Marte",
+      "Venus"
+    ],
+    "answer": "Júpiter"
+  },
+  {
+    "question": "¿Cuántos lados tiene un hexágono?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "¿Cuál es el océano más grande?",
+    "options": [
+      "Atlántico",
+      "Índico",
+      "Pacífico",
+      "Ártico"
+    ],
+    "answer": "Pacífico"
+  },
+  {
+    "question": "¿Cuántos minutos tiene una hora?",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "100"
+    ],
+    "answer": "60"
+  },
+  {
+    "question": "¿Qué metal tiene el símbolo Au?",
+    "options": [
+      "Plata",
+      "Oro",
+      "Cobre",
+      "Aluminio"
+    ],
+    "answer": "Oro"
+  },
+  {
+    "question": "¿Qué instrumento tiene teclas y pedales?",
+    "options": [
+      "Piano",
+      "Violín",
+      "Trompeta",
+      "Batería"
+    ],
+    "answer": "Piano"
+  },
+  {
+    "question": "¿Qué gas respiramos principalmente?",
+    "options": [
+      "Oxígeno",
+      "Helio",
+      "Hidrógeno",
+      "Neón"
+    ],
+    "answer": "Oxígeno"
+  },
+  {
+    "question": "¿Cuántos continentes tiene el modelo de siete continentes?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "¿Qué animal es conocido como rey de la selva?",
+    "options": [
+      "Tigre",
+      "León",
+      "Elefante",
+      "Gorila"
+    ],
+    "answer": "León"
+  },
+  {
+    "question": "¿Cuál es la capital de Japón?",
+    "options": [
+      "Tokio",
+      "Kioto",
+      "Osaka",
+      "Sapporo"
+    ],
+    "answer": "Tokio"
+  },
+  {
+    "question": "¿Cuál es el país más grande por superficie?",
+    "options": [
+      "Rusia",
+      "China",
+      "Canadá",
+      "Brasil"
+    ],
+    "answer": "Rusia"
+  },
+  {
+    "question": "¿Qué órgano bombea la sangre?",
+    "options": [
+      "Corazón",
+      "Pulmón",
+      "Riñón",
+      "Hígado"
+    ],
+    "answer": "Corazón"
+  }
+]

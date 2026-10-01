@@ -1,0 +1,122 @@
+[
+  {
+    "question": "¿Qué fuerza nos mantiene sobre la Tierra?",
+    "options": [
+      "Gravedad",
+      "Magnetismo",
+      "Fricción",
+      "Electricidad"
+    ],
+    "answer": "Gravedad"
+  },
+  {
+    "question": "¿Símbolo químico del oxígeno?",
+    "options": [
+      "O",
+      "X",
+      "Ox",
+      "Og"
+    ],
+    "answer": "O"
+  },
+  {
+    "question": "¿Qué órgano bombea la sangre?",
+    "options": [
+      "Corazón",
+      "Pulmón",
+      "Hígado",
+      "Riñón"
+    ],
+    "answer": "Corazón"
+  },
+  {
+    "question": "¿Planeta rojo?",
+    "options": [
+      "Marte",
+      "Venus",
+      "Mercurio",
+      "Saturno"
+    ],
+    "answer": "Marte"
+  },
+  {
+    "question": "¿Qué partícula tiene carga negativa?",
+    "options": [
+      "Electrón",
+      "Protón",
+      "Neutrón",
+      "Fotón"
+    ],
+    "answer": "Electrón"
+  },
+  {
+    "question": "¿A qué temperatura hierve el agua al nivel del mar?",
+    "options": [
+      "50 °C",
+      "75 °C",
+      "100 °C",
+      "120 °C"
+    ],
+    "answer": "100 °C"
+  },
+  {
+    "question": "¿Gas más abundante de la atmósfera?",
+    "options": [
+      "Nitrógeno",
+      "Oxígeno",
+      "CO₂",
+      "Helio"
+    ],
+    "answer": "Nitrógeno"
+  },
+  {
+    "question": "¿Unidad básica de la vida?",
+    "options": [
+      "Célula",
+      "Átomo",
+      "Molécula",
+      "Tejido"
+    ],
+    "answer": "Célula"
+  },
+  {
+    "question": "¿Qué fenómeno ayuda a formar un arcoíris?",
+    "options": [
+      "Refracción",
+      "Combustión",
+      "Gravedad",
+      "Evaporación"
+    ],
+    "answer": "Refracción"
+  },
+  {
+    "question": "¿Qué planeta tiene los anillos más conocidos?",
+    "options": [
+      "Saturno",
+      "Marte",
+      "Venus",
+      "Mercurio"
+    ],
+    "answer": "Saturno"
+  },
+  {
+    "question": "¿Cuál es una estrella?",
+    "options": [
+      "Sol",
+      "Luna",
+      "Tierra",
+      "Júpiter"
+    ],
+    "answer": "Sol"
+  },
+  {
+    "question": "¿Qué órgano filtra la sangre?",
+    "options": [
+      "Riñones",
+      "Pulmones",
+      "Corazón",
+      "Cerebro"
+    ],
+    "answer": "Riñones"
+  }
+]
