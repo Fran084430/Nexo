@@ -1,0 +1,122 @@
+[
+  {
+    "question": "¿Cuántos jugadores hay en pista por equipo en baloncesto?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "¿Qué deporte usa un puck?",
+    "options": [
+      "Hockey hielo",
+      "Golf",
+      "Rugby",
+      "Tenis"
+    ],
+    "answer": "Hockey hielo"
+  },
+  {
+    "question": "¿Cuántos anillos tiene el símbolo olímpico?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "¿Cuánto mide una maratón?",
+    "options": [
+      "32,2 km",
+      "42,2 km",
+      "52,2 km",
+      "62,2 km"
+    ],
+    "answer": "42,2 km"
+  },
+  {
+    "question": "¿Qué deporte usa birdie y eagle?",
+    "options": [
+      "Golf",
+      "Bádminton",
+      "Tenis",
+      "Críquet"
+    ],
+    "answer": "Golf"
+  },
+  {
+    "question": "¿Qué objeto se golpea en bádminton?",
+    "options": [
+      "Volante",
+      "Puck",
+      "Pelota",
+      "Disco"
+    ],
+    "answer": "Volante"
+  },
+  {
+    "question": "¿En qué deporte hay touchdown?",
+    "options": [
+      "Fútbol americano",
+      "Golf",
+      "Tenis",
+      "Hockey"
+    ],
+    "answer": "Fútbol americano"
+  },
+  {
+    "question": "¿Cuál es un estilo de natación?",
+    "options": [
+      "Mariposa",
+      "Tornado",
+      "Rayo",
+      "Cometa"
+    ],
+    "answer": "Mariposa"
+  },
+  {
+    "question": "¿Qué deporte se juega sobre un tablero 8x8?",
+    "options": [
+      "Ajedrez",
+      "Rugby",
+      "Polo",
+      "Golf"
+    ],
+    "answer": "Ajedrez"
+  },
+  {
+    "question": "¿Cuántos jugadores hay en pista por equipo en voleibol?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "¿Qué deporte usa raqueta y volante?",
+    "options": [
+      "Bádminton",
+      "Pádel",
+      "Squash",
+      "Golf"
+    ],
+    "answer": "Bádminton"
+  },
+  {
+    "question": "¿Qué prueba combina natación, ciclismo y carrera?",
+    "options": [
+      "Triatlón",
+      "Decatlón",
+      "Pentatlón",
+      "Biathlon"
+    ],
+    "answer": "Triatlón"
+  }
+]

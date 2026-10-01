@@ -1,0 +1,122 @@
+[
+  {
+    "question": "¿Quién es una mascota de Nintendo?",
+    "options": [
+      "Mario",
+      "Sonic",
+      "Crash",
+      "Master Chief"
+    ],
+    "answer": "Mario"
+  },
+  {
+    "question": "¿Qué juego usa bloques?",
+    "options": [
+      "Minecraft",
+      "FIFA",
+      "Valorant",
+      "Portal"
+    ],
+    "answer": "Minecraft"
+  },
+  {
+    "question": "¿Qué compañía creó PlayStation?",
+    "options": [
+      "Sony",
+      "Nintendo",
+      "Sega",
+      "Microsoft"
+    ],
+    "answer": "Sony"
+  },
+  {
+    "question": "¿Qué personaje es azul y rápido?",
+    "options": [
+      "Sonic",
+      "Kirby",
+      "Link",
+      "Pikachu"
+    ],
+    "answer": "Sonic"
+  },
+  {
+    "question": "¿Qué juego popular tiene battle royale?",
+    "options": [
+      "Fortnite",
+      "Celeste",
+      "Tetris",
+      "Portal"
+    ],
+    "answer": "Fortnite"
+  },
+  {
+    "question": "¿Qué consola es de Nintendo?",
+    "options": [
+      "Switch",
+      "Xbox",
+      "PlayStation",
+      "Steam Deck"
+    ],
+    "answer": "Switch"
+  },
+  {
+    "question": "Rocket League mezcla fútbol con...",
+    "options": [
+      "Coches",
+      "Aviones",
+      "Motos",
+      "Robots"
+    ],
+    "answer": "Coches"
+  },
+  {
+    "question": "¿Qué enemigo explota en Minecraft?",
+    "options": [
+      "Creeper",
+      "Aldeano",
+      "Golem",
+      "Esqueleto"
+    ],
+    "answer": "Creeper"
+  },
+  {
+    "question": "¿Qué fontanero suele vestir de rojo?",
+    "options": [
+      "Mario",
+      "Luigi",
+      "Wario",
+      "Toad"
+    ],
+    "answer": "Mario"
+  },
+  {
+    "question": "¿Qué género es Civilization?",
+    "options": [
+      "Estrategia",
+      "Carreras",
+      "Terror",
+      "Ritmo"
+    ],
+    "answer": "Estrategia"
+  },
+  {
+    "question": "¿Qué empresa creó Xbox?",
+    "options": [
+      "Microsoft",
+      "Sony",
+      "Sega",
+      "Nintendo"
+    ],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "¿Cuál es un juego de ritmo?",
+    "options": [
+      "Beat Saber",
+      "Minecraft",
+      "FIFA",
+      "Forza"
+    ],
+    "answer": "Beat Saber"
+  }
+]

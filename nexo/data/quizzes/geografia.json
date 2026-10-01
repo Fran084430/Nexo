@@ -1,0 +1,122 @@
+[
+  {
+    "question": "¿Capital de España?",
+    "options": [
+      "Madrid",
+      "Barcelona",
+      "Valencia",
+      "Sevilla"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "¿Qué país tiene forma de bota?",
+    "options": [
+      "Italia",
+      "Grecia",
+      "Portugal",
+      "Croacia"
+    ],
+    "answer": "Italia"
+  },
+  {
+    "question": "¿Río más largo de la península ibérica?",
+    "options": [
+      "Tajo",
+      "Ebro",
+      "Duero",
+      "Guadiana"
+    ],
+    "answer": "Tajo"
+  },
+  {
+    "question": "¿En qué continente está Egipto?",
+    "options": [
+      "África",
+      "Asia",
+      "Europa",
+      "Oceanía"
+    ],
+    "answer": "África"
+  },
+  {
+    "question": "¿País más grande por superficie?",
+    "options": [
+      "Rusia",
+      "China",
+      "Canadá",
+      "EE. UU."
+    ],
+    "answer": "Rusia"
+  },
+  {
+    "question": "¿Capital de Japón?",
+    "options": [
+      "Tokio",
+      "Kioto",
+      "Osaka",
+      "Sapporo"
+    ],
+    "answer": "Tokio"
+  },
+  {
+    "question": "¿Qué cordillera separa parcialmente España y Francia?",
+    "options": [
+      "Pirineos",
+      "Alpes",
+      "Apeninos",
+      "Cárpatos"
+    ],
+    "answer": "Pirineos"
+  },
+  {
+    "question": "¿Capital de Portugal?",
+    "options": [
+      "Lisboa",
+      "Oporto",
+      "Braga",
+      "Coímbra"
+    ],
+    "answer": "Lisboa"
+  },
+  {
+    "question": "¿En qué continente está Argentina?",
+    "options": [
+      "América del Sur",
+      "Europa",
+      "Asia",
+      "África"
+    ],
+    "answer": "América del Sur"
+  },
+  {
+    "question": "¿Qué océano está al oeste de América?",
+    "options": [
+      "Pacífico",
+      "Atlántico",
+      "Índico",
+      "Ártico"
+    ],
+    "answer": "Pacífico"
+  },
+  {
+    "question": "¿Capital de Italia?",
+    "options": [
+      "Roma",
+      "Milán",
+      "Nápoles",
+      "Turín"
+    ],
+    "answer": "Roma"
+  },
+  {
+    "question": "¿Qué país tiene como capital Berlín?",
+    "options": [
+      "Alemania",
+      "Austria",
+      "Suiza",
+      "Polonia"
+    ],
+    "answer": "Alemania"
+  }
+]
