@@ -1,6 +1,0 @@
-function registerGame(s,type,score){s.stats.gamesPlayed++;let record=false;if(score!==undefined){const old=s.records[type];const better=old===undefined||(type==='reaction'?score<old:score>old);if(better){s.records[type]=score;s.stats.records++;record=true}}return record}
-function registerAnswer(s,ok,kind){s.stats.questionsAnswered++;if(ok){s.stats.correctAnswers++;if(kind==='paises')s.stats.countriesCorrect++;if(kind==='futbolistas')s.stats.footballersCorrect++}}
-function dailyIndex(){return Math.floor(new Date().setHours(0,0,0,0)/86400000)%7}
-function dailyChallenge(){return dailyIndex()}
-function recordDailyProgress(s,activity,value){const today=NexoStore.today();if(s.daily.progressKey!==today){s.daily.progressKey=today;s.daily.completedKey=''}const challenge=dailyChallenge();const complete=(challenge===0&&activity==='reaction'&&value<300)||(challenge===1&&activity==='memory'&&value?.time<60)||(challenge===2&&activity==='quiz'&&value>=8)||(challenge===3&&activity==='country'&&value>=8)||(challenge===4&&activity==='footballer'&&value>=5)||(challenge===5&&activity==='memory'&&value?.score>=800)||(challenge===6&&activity==='word'&&value===true);if(complete)s.daily.completedKey=today;return complete}
-window.NexoStats={registerGame,registerAnswer,recordDailyProgress,dailyChallenge};
